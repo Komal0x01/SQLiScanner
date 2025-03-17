@@ -25,7 +25,7 @@ This tool supports multi-threading for efficient scanning, integrates with exter
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/technicalattri/SQLiScanner
+   git clone https://github.com/komal0x01/SQLiScanner
    cd SQLiScanner
    ```
 
